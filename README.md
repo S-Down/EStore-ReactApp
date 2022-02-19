@@ -1,3 +1,3 @@
 ## Description
 
-A Ecommerce React Web App.
+An Ecommerce React Web App.
