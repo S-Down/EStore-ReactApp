@@ -100,7 +100,7 @@ const Footer = () => {
                 <ListItem>服饰配饰</ListItem>
                 <ListItem>个人账户</ListItem>
                 <ListItem>订单追踪</ListItem>
-                <ListItem>愿望清单</ListItem>
+                <ListItem>心愿清单</ListItem>
                 <ListItem>条款协议</ListItem>
             </List>
         </Center>
