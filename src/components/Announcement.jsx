@@ -9,13 +9,14 @@ const Container = styled.div`
     justify-content: center;
     align-items: center;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
+    letter-spacing: 3px;
 `
 
 const Announcement = () => {
   return (
     <Container>
-        Super Real! Free Shopping On Orders Over $50
+        超级优惠! 购物下单可享减免最高至500元
     </Container>
   )
 }
