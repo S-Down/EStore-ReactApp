@@ -116,7 +116,7 @@ const Summary = styled.div`
     flex: 1;
     border: 0.5px solid lightgray;
     border-radius: 10px;
-    margin: 0px v10px;
+    margin: 0px 10px;
     padding: 20px;
     max-height: 50vh;
 `
